@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+.navbar-custom {
+    background: #ede9e9;
+    font-style: italic;
+}
+
+.nav-link:hover {
+    background: #fff;
+    color: black !important;
+    border-radius: 5px;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #734b6d !important;
+}
+
+.active {
+    color: #000428 → #004e92 !important;
+}
+
+#backgd {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 115vh;
+    background-image: url("apple3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
